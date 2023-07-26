@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "pring.datasource.url",
-      "type": "java.lang.String",
-      "description": "Description for pring.datasource.url."
-  }
-] }
